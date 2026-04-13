@@ -21,6 +21,8 @@ pnpm-debug.log*
 .env.test.local
 .env.production.local
 
+.codex
+
 # TypeScript
 *.tsbuildinfo
 
